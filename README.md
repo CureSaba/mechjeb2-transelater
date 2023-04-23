@@ -6,7 +6,7 @@ Some country need to chenge output file after this program when the program ends
 ```
 Localization
 {
-    en-en
+    en-gb
     {
         #MechJeb_ModuleAreLocked = Some modules are disabled until you unlock the proper node in the R&D tree or upgrade the tracking station.
         #MechJeb_OnlineManualbutton = Online Manual
