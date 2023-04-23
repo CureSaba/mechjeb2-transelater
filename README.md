@@ -1,7 +1,7 @@
 # Mechjeb2-transelater
 Mechjeb unofficial transelater
 
-Start the program and enter the code of the language you want to translate
+Start the program and enter the code of the language you want to translate/n
 Some country need to chenge output file after this program when the program ends like this
 ```
 Localization
