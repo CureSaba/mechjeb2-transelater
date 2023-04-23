@@ -1,4 +1,4 @@
-# mechjeb-transelater
+# Mechjeb2-transelater
 Mechjeb unofficial transelater
 
 Start the program and enter the code of the language you want to translate
