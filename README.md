@@ -1,6 +1,8 @@
 # Mechjeb2-transelater
 Mechjeb unofficial transelater
 
+**You need googletrans 3.1.0a0 package**
+
 Start the program and enter the code of the language you want to translate<br>
 Some country need to chenge output file after this program when the program ends like this
 ```
